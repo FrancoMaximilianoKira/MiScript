@@ -1,0 +1,1 @@
+$global:MiSOErroneo = get-computerinfo | select-object windowsproductName
